@@ -99,7 +99,7 @@ const experiences = [
     company_name: "Hazy's British Army",
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'May 2021 - October 2022',
+    date: 'May 2021 - on going',
   },
 
   {
@@ -118,11 +118,11 @@ const experiences = [
     date: 'Nov 2022 - January 2023',
   },
   {
-    title: 'Programmer',
-    company_name: 'Snail Race',
+    title: 'Lead Programmer',
+    company_name: 'Head Smashers',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'Jul 2023 - August 2023',
+    date: 'September 2023 - ongoing',
   },
 ];
 
@@ -194,7 +194,7 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Head Smash Simulator',
+    name: 'Head Smashers!',
     description:
       'Recently Launched, Fully coded by Me',
     tags: [
@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: hsm,
-    demo: 'https://www.roblox.com/games/14780309176/Head-Smash-Simulator',
+    demo: 'https://www.roblox.com/games/14780309176/Head-Smashers',
   },
 ];
 
