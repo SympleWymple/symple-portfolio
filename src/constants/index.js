@@ -194,7 +194,7 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Head Smash Simulator (Beta)',
+    name: 'Head Smash Simulator',
     description:
       'Recently Launched, Fully coded by Me',
     tags: [
