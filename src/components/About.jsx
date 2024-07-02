@@ -40,7 +40,7 @@ const About = () => {
        My name is Tolu, a 16 year old programmer who loves coding especially in roblox. 
        I have been coding on roblox for 4 years with vast expierence in many fields, 
        such as exploiting, simulators, role play, fps/tps games. I have also dealt 
-       with many dependencies such knit, and profile service. I am keen to learn/ improve
+       with many dependencies such knit, and profile service. I am very keen to learn/ improve
        with every new project that I get to be on.
 
       </motion.p>
